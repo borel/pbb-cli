@@ -1,0 +1,27 @@
+{
+  "name": "pbb-cli",
+  "version": "1.0.0",
+  "description": "cli for PBB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borel/pbb-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "pbb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borel/pbb-cli/issues"
+  },
+  "dependencies": {
+    "semver": "^5.3.0",
+    "shelljs": "^0.7.3",
+    "yargs": "^8.0.2"
+  },
+  "homepage": "https://github.com/borel/pbb-cli#readme"
+}
